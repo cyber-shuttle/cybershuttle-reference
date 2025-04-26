@@ -3,7 +3,7 @@ project:
   description: "Run a simulation and understand the minimum macros required to run Cybershuttle"
   homepage: https://github.com/cyber-shuttle/cybershuttle-reference
   authors:
-    - Suresh Marru
+    - smarru@gatech.edu
   tags:
     - cybershuttle
     - apache-airavata
