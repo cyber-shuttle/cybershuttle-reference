@@ -23,8 +23,5 @@ workspace:
 
 additional_dependencies:
   modules: []
-  conda:
-    - python=3.10
-    - pip
-    - paraview=5.12.1
+  conda: []
   pip: []
